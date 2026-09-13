@@ -59,7 +59,7 @@
     border-bottom-left-radius: 4px;
     border: none;
 }
-.search{
+.search-input{
     width: 100%;
     font-size:1rem;
     border: none;
@@ -96,12 +96,12 @@ span{
 }
 /** panel **/
 .panel{
-    background-color: #232f3e;
-    color: white;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
     height: 40px;
+    background-color: #232f3e;
+    display: flex;
+    color: white;
+     align-items: center;
+    justify-content: space-evenly;
 }
 .panel-ops p{
     display: inline;
