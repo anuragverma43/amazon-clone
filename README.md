@@ -18,3 +18,8 @@ A front-end clone of Amazon's homepage built using HTML and CSS.
 ## Author
 
 Anurag Verma
+
+## Preview
+
+![Amazon Homepage Clone](Screenshots/cloneimage.png)
+
